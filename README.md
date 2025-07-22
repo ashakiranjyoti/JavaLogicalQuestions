@@ -1,6 +1,3 @@
-# JavaLogicalQuestions
-Daily Java logical problems with solutions for beginners.
-
 # Java Logical Questions (Beginner Friendly)
 
 📌 A collection of simple Java logical questions and solutions for beginners.  
