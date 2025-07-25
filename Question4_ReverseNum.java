@@ -7,7 +7,7 @@ public class ReverseNumber {
         int num = sc.nextInt();
         
         int reversedNum = 0;
-        int originalNum = num; // Store original number
+        int originalNum = num; // It Store the original number
         
         while (num != 0) {
             int digit = num % 10; // Extract last digit
