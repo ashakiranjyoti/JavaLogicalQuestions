@@ -10,7 +10,7 @@ public class ReverseNumber {
         int originalNum = num; // It Store the original number
         
         while (num != 0) {
-            int digit = num % 10; // Extract last digit
+            int digit = num % 10; // It extract the last digit
             reversedNum = reversedNum * 10 + digit; // Build reversed number
             num = num / 10; // Remove last digit
         }
