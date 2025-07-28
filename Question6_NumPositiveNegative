@@ -1,16 +1,16 @@
 // Write a program to check number is positive or negative
-//import package
 
-import java.util.Scanner;
+import java.util.Scanner;  // Importing the Scanner class to read input from the user
 
 public class Main
 {
 	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);  // Creating a Scanner object for input
 		
-		System.out.println("Enter a number: ");
+		System.out.println("Enter a number: "); // Prompting the user to enter a number
 		int number = sc.nextInt();
-		
+
+                // Checking if the number is greater than 0
 		if(number > 0){
 		    System.out.println("Number is Positive");
 		} else {
