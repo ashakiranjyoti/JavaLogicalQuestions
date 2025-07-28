@@ -12,9 +12,9 @@ public class Main
 
                 // Checking if the number is greater than 0
 		if(number > 0){
-		    System.out.println("Number is Positive");
+		    System.out.println("Number is Positive");    // Output if the number is positive
 		} else {
-		    System.out.println("Number is negative");
+		    System.out.println("Number is negative");    // Output if the number is zero or negative
 		}
 	}
 }
