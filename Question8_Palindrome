@@ -19,7 +19,7 @@ public class PalindromeChecker {
             reversed += input.charAt(i);  // Add each character in reverse order
         }
 
-        // Compare original and reversed strings
+        
         if (input.equals(reversed)) {
             System.out.println("The string is a palindrome.");
         } else {
