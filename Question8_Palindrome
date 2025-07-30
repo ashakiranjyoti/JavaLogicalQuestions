@@ -26,7 +26,7 @@ public class PalindromeChecker {
             System.out.println("The string is not a palindrome.");
         }
 
-       
+        // Close the scanner to avoid resource leak
         scanner.close();
     }
 }
