@@ -1,4 +1,4 @@
-
+// Java Program to demonstrate Instance Variable
 import java.io.*;
 class GFG {
     private String name;
