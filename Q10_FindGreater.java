@@ -36,10 +36,6 @@ public class Greatest {
       if (num3 > num2) // Then check if num3 is also greater than num2
         System.out.println("The greatest: " + num3); // num3 is the greatest
 
-    // Note: This code only prints the greatest number
-    // when it is strictly greater than the other two.
-    // If two or more numbers are equal and greatest,
-    // nothing will be printed. That could be improved.
   }
 }
 
