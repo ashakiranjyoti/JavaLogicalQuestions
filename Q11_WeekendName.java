@@ -26,7 +26,7 @@ public class Exercise5 {
         // Declare a variable to hold the name of the day
         String dayName = "";
 
-        
+        // Use a switch statement to determine the day name based on the number
         switch (day) {
             case 1: dayName = "Monday"; break;      // If day = 1, set to Monday
             case 2: dayName = "Tuesday"; break;     // If day = 2, set to Tuesday
