@@ -1,3 +1,5 @@
+// Write a Java program to check if a vowel is present in a string
+
 public class StringContainsVowels {
 
  public static void main(String[] args) {
