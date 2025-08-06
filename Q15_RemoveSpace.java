@@ -5,7 +5,7 @@ String removeWhiteSpaces(String input) {
     // Use StringBuilder for efficient string concatenation
     StringBuilder output = new StringBuilder();
 
-    
+    // Convert the input string to a character array for easy traversal
     char[] charArray = input.toCharArray();
 
     // Loop through each character in the array
