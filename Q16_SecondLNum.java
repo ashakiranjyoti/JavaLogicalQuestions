@@ -4,7 +4,7 @@ import java.util.Random;  // Needed to use Random
 
 public class ShuffleArray {
     public static void main(String[] args) {
-        
+        // Create and initialize an array of integers
         int[] array = { 1, 2, 3, 4, 5, 6, 7 };
 
         // Create an instance of the Random class to generate random numbers
