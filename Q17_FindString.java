@@ -1,6 +1,8 @@
 // Write a program to find a string in a text file in Java
 
-
+// This method checks whether a given string (str) exists in a file at the given file path.
+// It returns true if the string is found in any line of the file, otherwise false.
+// It can throw FileNotFoundException if the file path is invalid or the file doesn't exist.
 boolean findStringInFile(String filePath, String str) throws FileNotFoundException {
     
     // Create a File object using the provided file path
