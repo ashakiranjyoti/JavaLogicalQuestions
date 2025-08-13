@@ -1,3 +1,5 @@
+// Write a program to find the second largest number in an array in Java
+
 private static int findSecondHighest(int[] array) {
  int highest = Integer.MIN_VALUE;
  int secondHighest = Integer.MIN_VALUE;
