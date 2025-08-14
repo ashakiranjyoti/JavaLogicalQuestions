@@ -1,4 +1,4 @@
-//  How do you print a date in specific format in Java?
+//  Write a program to print a date in specific format in Java?
 
 import java.text.SimpleDateFormat; // Import class for date formatting
 import java.util.Date;             // Import Date class to get current date
