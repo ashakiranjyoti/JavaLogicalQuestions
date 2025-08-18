@@ -1,3 +1,4 @@
+// Write a code to showcase some case 
 // This is the parent class (also called the superclass)
 class Animal {
     String color; // Property of Animal class
