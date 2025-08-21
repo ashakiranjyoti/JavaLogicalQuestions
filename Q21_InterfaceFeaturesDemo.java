@@ -1,3 +1,4 @@
+// Write an interface with default and 
 public class InterfaceDemo {
     public static void main(String[] args) {
         Interface1 obj = new MyClass();
