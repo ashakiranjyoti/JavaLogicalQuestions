@@ -1,4 +1,4 @@
-// Write an interface with default and static
+// Write an interface with default and static method
 public class InterfaceDemo {
     public static void main(String[] args) {
         Interface1 obj = new MyClass();
