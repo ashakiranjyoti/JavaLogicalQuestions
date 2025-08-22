@@ -1,4 +1,4 @@
-Write a program to remove duplicate characters from a string in java.
+// Write a program to remove duplicate characters from a string in java.
 public class RemoveDuplicates {
 
     // This method removes duplicate characters from the input string
