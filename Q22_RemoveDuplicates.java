@@ -1,6 +1,6 @@
 public class RemoveDuplicates {
 
-    
+    // This method removes duplicate characters from the input string
     public static String removeDuplicates(String input) {
         StringBuilder result = new StringBuilder(); // To build the final string without duplicates
 
