@@ -1,3 +1,4 @@
+Write a program to remove duplicate
 public class RemoveDuplicates {
 
     // This method removes duplicate characters from the input string
