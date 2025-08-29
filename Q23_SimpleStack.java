@@ -1,4 +1,4 @@
-Write a program to implement
+Write a program to implement a stack in 
 public class Stack {
 
     // Array to store stack elements
