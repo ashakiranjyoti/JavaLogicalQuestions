@@ -1,3 +1,4 @@
+Write a program
 public class Stack {
 
     // Array to store stack elements
