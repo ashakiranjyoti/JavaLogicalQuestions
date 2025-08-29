@@ -35,7 +35,7 @@ public class Stack {
         arr[++top] = x;  // increment top and add element
     }
 
-    
+    // Method to remove and return the top element from the stack (pop operation)
     public int pop() {
         if (isEmpty()) {
             System.out.println("Stack is empty");  // warning if stack is empty
