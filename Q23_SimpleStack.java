@@ -1,4 +1,4 @@
-Write a program to implement a stack in java.
+// Write a program to implement a stack in java.
 public class Stack {
 
     // Array to store stack elements
