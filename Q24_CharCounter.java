@@ -7,7 +7,7 @@ public class CharCounter {  // Class name suggests it counts characters
         Scanner scanner = new Scanner(System.in);  // Create Scanner object to read input from user
         
         System.out.print("Enter a string: ");
-        String inputString = scanner.nextLine();  
+        String inputString = scanner.nextLine();  // Read the whole line as input string
         
         System.out.print("Enter a character to count: ");
         char targetChar = scanner.nextLine().charAt(0);  // Read the next line and take the first character
