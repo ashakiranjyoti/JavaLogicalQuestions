@@ -1,3 +1,5 @@
+// Write a program to count the number of
+
 import java.util.Scanner;
 
 public class CharCounter {  // Class name suggests it counts characters
