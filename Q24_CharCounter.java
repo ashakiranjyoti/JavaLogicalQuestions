@@ -1,4 +1,4 @@
-// Write a program to count the number of a character in a string in Java
+// Write a program to count the number of a character in a string in Java.
 
 import java.util.Scanner;
 
