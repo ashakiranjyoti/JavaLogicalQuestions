@@ -6,7 +6,7 @@ public class ArrayShuffle {
          // Original array to shuffle
         int[] array = { 1, 2, 3, 4, 5, 6, 7 };
 
-        
+        // Create a Random object for generating random indices
         Random rand = new Random();
 
 
