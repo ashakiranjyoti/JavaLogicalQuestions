@@ -1,3 +1,4 @@
+20. How do you shuffle an array in Java?
 import java.util.Arrays; // For printing the array
 import java.util.Random; // For generating random numbers
 
