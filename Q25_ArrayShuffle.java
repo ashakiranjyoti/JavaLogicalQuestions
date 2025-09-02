@@ -9,7 +9,7 @@ public class ArrayShuffle {
         // Create a Random object for generating random indices
         Random rand = new Random();
 
-
+         // Loop through the array
         for (int i = 0; i < array.length; i++) {
             // Generate a random index within the bounds of the array
             int randomIndexToSwap = rand.nextInt(array.length);
