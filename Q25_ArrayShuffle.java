@@ -3,7 +3,7 @@ import java.util.Random; // For generating random numbers
 
 public class ArrayShuffle {
     public static void main(String[] args) {
-
+         // Original array to shuffle
         int[] array = { 1, 2, 3, 4, 5, 6, 7 };
 
         
