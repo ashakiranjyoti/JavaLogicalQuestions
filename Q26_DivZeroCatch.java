@@ -1,3 +1,4 @@
+Write a program in Java to show a basic “divide by 0 exception”.
 import java.util.*;  // Importing utility package for Scanner class
 
 class Main {
