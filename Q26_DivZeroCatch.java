@@ -2,7 +2,7 @@ import java.util.*;  // Importing utility package for Scanner class
 
 class Main {
     public static void main(String args[]) {
-        
+        // Creating a Scanner object to take input from the user
         Scanner scn = new Scanner(System.in);
 
         
