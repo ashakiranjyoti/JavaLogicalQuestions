@@ -6,6 +6,7 @@ class Main {
         Scanner scn = new Scanner(System.in);
 
         
+        // Reading an integer input from the user
         int n = scn.nextInt();
 
         // Informing user that the program will attempt division by 0
