@@ -1,4 +1,4 @@
-import java.util.*;  
+import java.util.*;  // Importing utility package for Scanner class
 
 class Main {
     public static void main(String args[]) {
