@@ -1,4 +1,4 @@
-
+Write a program to remove duplicate characters from a string in Java.
 import java.util.LinkedHashSet; // Imports LinkedHashSet to maintain insertion order and uniqueness
 import java.util.Scanner;       // Imports Scanner class to take user input
 import java.util.Set;           // Imports Set interface
