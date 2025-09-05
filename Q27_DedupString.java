@@ -12,7 +12,7 @@ public class CharDeduplicator {
         System.out.print("Enter a string: ");
         String inputString = scanner.nextLine();  // Read input string from user
 
-        
+        // LinkedHashSet maintains the order and removes duplicates
         Set<Character> charSet = new LinkedHashSet<>();
 
         
