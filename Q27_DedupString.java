@@ -15,7 +15,7 @@ public class CharDeduplicator {
         // LinkedHashSet maintains the order and removes duplicates
         Set<Character> charSet = new LinkedHashSet<>();
 
-        
+         // Loop through each character in the input string
         for (int i = 0; i < inputString.length(); i++) {
             char c = inputString.charAt(i); // Get each character
             charSet.add(c);                 // Add to set (automatically removes duplicates)
