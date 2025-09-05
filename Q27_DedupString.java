@@ -3,7 +3,7 @@ import java.util.LinkedHashSet; // Imports LinkedHashSet to maintain insertion o
 import java.util.Scanner;       // Imports Scanner class to take user input
 import java.util.Set;           // Imports Set interface
 
-
+// Class to remove duplicate characters from a string
 public class CharDeduplicator {
 
     public static void main(String[] args) {
