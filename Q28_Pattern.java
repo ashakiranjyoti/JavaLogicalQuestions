@@ -4,7 +4,7 @@ public class PrintPattern {
     // Main method - the entry point of any Java application
     public static void main(String[] args) {
 
-        
+        // Declare and initialize a variable 'rows' to define the number of rows in the pattern
         int rows = 5;
 
         // Outer loop: controls the number of rows (from 1 to 5)
