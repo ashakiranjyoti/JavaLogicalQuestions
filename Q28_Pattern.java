@@ -1,4 +1,4 @@
-
+// Define a public class named PrintPattern
 public class PrintPattern {
 
     
