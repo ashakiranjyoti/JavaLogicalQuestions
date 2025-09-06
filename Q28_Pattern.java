@@ -1,7 +1,7 @@
 // Define a public class named PrintPattern
 public class PrintPattern {
 
-    
+    // Main method - the entry point of any Java application
     public static void main(String[] args) {
 
         
