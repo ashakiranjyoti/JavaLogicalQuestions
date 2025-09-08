@@ -1,4 +1,4 @@
- Define a class named Solution (standard LeetCode format)
+// Define a class named Solution (standard LeetCode format)
 class Solution {
 
  // Method to find two non-zero-digit integers whose sum is n
