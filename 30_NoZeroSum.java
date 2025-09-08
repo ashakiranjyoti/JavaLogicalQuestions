@@ -1,4 +1,4 @@
-
+ Define a class named Solution (standard LeetCode format)
 class Solution {
 
  
