@@ -8,7 +8,7 @@ public class AnagramChecker {
    // Main method: program entry point
     public static void main(String[] args) {
 
-        
+        // Create a Scanner object to take input from the user
         Scanner scanner = new Scanner(System.in);
 
         
