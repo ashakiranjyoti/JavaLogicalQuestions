@@ -5,7 +5,7 @@ import java.util.Scanner;
 // Define the main class
 public class AnagramChecker {
 
-   
+   // Main method: program entry point
     public static void main(String[] args) {
 
         
