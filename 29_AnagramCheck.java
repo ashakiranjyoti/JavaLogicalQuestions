@@ -11,7 +11,7 @@ public class AnagramChecker {
         // Create a Scanner object to take input from the user
         Scanner scanner = new Scanner(System.in);
 
-        
+        // Ask user for the first string
         System.out.print("Enter the first string: ");
         String firstString = scanner.nextLine();
 
