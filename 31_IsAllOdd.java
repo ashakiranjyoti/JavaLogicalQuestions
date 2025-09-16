@@ -1,3 +1,4 @@
+ How do you check if a list of integers contains only odd numbers in Java?
 import java.util.Arrays;
 import java.util.List;
 
