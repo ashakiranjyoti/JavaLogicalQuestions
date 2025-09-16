@@ -1,1 +1,31 @@
+import java.util.Arrays;
+import java.util.List;
+
+public class OddChecker {
+
+    
+    public static boolean onlyOddNumbers(List<Integer> list) {
+        
+        for (int i : list) {
+           
+            if (i % 2 == 0)
+                return false;
+        }
+
+       
+        return true;
+    }
+
+    public static void main(String[] args) {
+        // Example test cases
+        List<Integer> numbers1 = Arrays.asList(1, 3, 5, 7, 9);   // all odd
+        List<Integer> numbers2 = Arrays.asList(2, 4, 6);         // all even
+        List<Integer> numbers3 = Arrays.asList(1, 2, 3);         // mixed
+
+        // Calling onlyOddNumbers and printing the result
+        System.out.println("All numbers are odd (Test 1): " + onlyOddNumbers(numbers1)); // true
+        System.out.println("All numbers are odd (Test 2): " + onlyOddNumbers(numbers2)); // false
+        System.out.println("All numbers are odd (Test 3): " + onlyOddNumbers(numbers3)); // false
+    }
+}
 
