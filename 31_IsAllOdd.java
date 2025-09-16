@@ -12,7 +12,7 @@ public class OddChecker {
                 return false;
         }
 
-       
+        If loop completes, all numbers are odd — return true
         return true;
     }
 
