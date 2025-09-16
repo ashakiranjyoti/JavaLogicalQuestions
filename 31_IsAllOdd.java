@@ -5,7 +5,7 @@ public class OddChecker {
 
     // This method checks whether all numbers in the list are odd
     public static boolean onlyOddNumbers(List<Integer> list) {
-        
+        // Loop through each number in the list
         for (int i : list) {
            
             if (i % 2 == 0)
