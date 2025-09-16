@@ -3,7 +3,7 @@ import java.util.List;
 
 public class OddChecker {
 
-    
+    // This method checks whether all numbers in the list are odd
     public static boolean onlyOddNumbers(List<Integer> list) {
         
         for (int i : list) {
