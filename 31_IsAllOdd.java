@@ -7,7 +7,7 @@ public class OddChecker {
     public static boolean onlyOddNumbers(List<Integer> list) {
         // Loop through each number in the list
         for (int i : list) {
-           
+           // If any number is divisible by 2, it's even — return false
             if (i % 2 == 0)
                 return false;
         }
