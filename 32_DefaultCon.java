@@ -13,7 +13,7 @@ class Cat {
 }
 
 
-
+// Main class that contains the main method (entry point of the program)
 public class Main {
     // Main method – execution starts from here
     public static void main(String[] args) {
