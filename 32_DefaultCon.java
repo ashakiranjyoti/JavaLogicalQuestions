@@ -4,7 +4,7 @@ class Cat {
     String name; // to store the name of the cat
     int age;     // to store the age of the cat
 
-    
+    // Constructor of the Cat class (no-argument constructor)
     public Cat() {
         // Set default values when a Cat object is created
         this.name = "Unknown"; // Default name
