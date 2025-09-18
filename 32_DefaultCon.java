@@ -1,4 +1,4 @@
-
+// Define a class named 'Cat'
 class Cat {
     // Declare instance variables (also called fields)
     String name; // to store the name of the cat
