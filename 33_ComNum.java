@@ -2,7 +2,7 @@ class Solution {
   // Main method to compare two version numbers
   public int compareVersion(String version1, String version2) {
 
-    
+    // Split both version strings by '.' into arrays of version segments
     final String[] levels1 = version1.split("\\.");
     final String[] levels2 = version2.split("\\.");
 
