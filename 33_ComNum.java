@@ -1,5 +1,5 @@
 class Solution {
-  
+  // Main method to compare two version numbers
   public int compareVersion(String version1, String version2) {
 
     
