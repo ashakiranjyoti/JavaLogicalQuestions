@@ -6,7 +6,7 @@ class Solution {
     final String[] levels1 = version1.split("\\.");
     final String[] levels2 = version2.split("\\.");
 
-    
+    // Split both version strings by '.' into arrays of version segments
     // This ensures we can compare all segments, including trailing zeros
     final int length = Math.max(levels1.length, levels2.length);
 
