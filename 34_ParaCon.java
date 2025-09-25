@@ -11,7 +11,7 @@ public class Dog {
     public Dog(String name, String color) {
        // Initialize name with the provided parameter
         this.name = name;
-
+      // Initialize color with the provided parameter
         this.color = color;
     }
 
