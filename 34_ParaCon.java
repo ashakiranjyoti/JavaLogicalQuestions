@@ -3,7 +3,7 @@
 
 // Define the Dog class
 public class Dog {
-    
+    // Private instance variables
     private String name;
     private String color;
 
