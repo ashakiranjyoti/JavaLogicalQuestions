@@ -9,7 +9,7 @@ public class Dog {
 
 // Parameterized constructor
     public Dog(String name, String color) {
-       
+       // Initialize name with the provided parameter
         this.name = name;
 
         this.color = color;
