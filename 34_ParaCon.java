@@ -7,7 +7,7 @@ public class Dog {
     private String name;
     private String color;
 
-
+// Parameterized constructor
     public Dog(String name, String color) {
        
         this.name = name;
