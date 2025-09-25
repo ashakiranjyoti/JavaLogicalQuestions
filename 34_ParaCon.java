@@ -15,7 +15,7 @@ public class Dog {
         this.color = color;
     }
 
-
+// Main method to test the Dog class
     public static void main(String[] args) {
         // Create a new Dog object using the parameterized constructor
         Dog myDog = new Dog("Bailey", "Black");
