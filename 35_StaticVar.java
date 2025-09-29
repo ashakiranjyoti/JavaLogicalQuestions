@@ -8,7 +8,7 @@ public class Counter {
         count++;
     }
 
-    
+    // Static method to get the value of count
     public static int getCount() {
         return count;
     }
