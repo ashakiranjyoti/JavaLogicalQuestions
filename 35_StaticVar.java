@@ -1,4 +1,4 @@
-// Write a Java program to create a class called "Counter" with a static variable count. Implement a constructor that increments count every time an object is created. Print the value of count after creating several objects.
+// Write a Java program to create a class called "Counter" with a static variable count. Implement a constructor that increments count every time an object is created. Print the value of count after creating several objects
 // Define the Counter class
 public class Counter {
     // Static variable to keep track of the count of instances
