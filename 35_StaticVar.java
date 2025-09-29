@@ -3,7 +3,7 @@ public class Counter {
     // Static variable to keep track of the count of instances
     private static int count = 0;
 
-    
+    // Constructor increments the static variable count
     public Counter() {
         count++;
     }
