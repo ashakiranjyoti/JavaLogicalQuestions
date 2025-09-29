@@ -1,6 +1,6 @@
 // Define the Counter class
 public class Counter {
-    
+    // Static variable to keep track of the count of instances
     private static int count = 0;
 
     
