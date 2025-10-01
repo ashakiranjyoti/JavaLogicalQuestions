@@ -13,5 +13,13 @@ class Computer {
         }
     }
 
+    // Method to create and display Processor details
+    void showProcessorDetails() {
+        // Create an instance of the inner class Processor
+        Processor processor = new Processor();
+        // Call the displayDetails() method
+        processor.displayDetails();
+    }
+
     
 }
