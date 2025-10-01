@@ -25,6 +25,8 @@ class Computer {
     public static void main(String[] args) {
         // Create an instance of the outer class Computer
         Computer computer = new Computer();
+        // Call the method to show processor details
+        computer.showProcessorDetails();
         
     }
 
