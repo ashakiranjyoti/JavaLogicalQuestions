@@ -21,5 +21,12 @@ class Computer {
         processor.displayDetails();
     }
 
+    // Main method to execute the program
+    public static void main(String[] args) {
+        // Create an instance of the outer class Computer
+        Computer computer = new Computer();
+        
+    }
+
     
 }
