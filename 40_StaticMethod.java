@@ -13,3 +13,11 @@ public class Initializer {
         // Print initialValue before creating an instance
         System.out.println("Before creating an instance: initialValue = " + Initializer.initialValue);
 
+        // Create an instance of Initializer
+        Initializer initializer = new Initializer();
+
+        // Print initialValue after creating an instance
+        System.out.println("After creating an instance: initialValue = " + Initializer.initialValue);
+    }
+}
+
