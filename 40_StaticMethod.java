@@ -7,3 +7,9 @@ public class Initializer {
         initialValue = 1000;
         System.out.println("Static block: initialValue initialized to " + initialValue);
     }
+
+    // Main method to demonstrate the static block
+    public static void main(String[] args) {
+        // Print initialValue before creating an instance
+        System.out.println("Before creating an instance: initialValue = " + Initializer.initialValue);
+
