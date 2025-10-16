@@ -1,3 +1,4 @@
+// Define the Initializer class
 public class Initializer {
     // Declare a static variable initialValue
     static int initialValue;
