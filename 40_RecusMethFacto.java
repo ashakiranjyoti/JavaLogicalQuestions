@@ -11,6 +11,7 @@ public class FactorialCalculator {
     // Recursive case: multiply n with factorial of (n-1)
     return n * calculateFactorial(n - 1);
   }
+  
   public static void main(String[] args) {
     int number = 7;
     int factorial = calculateFactorial(number);
