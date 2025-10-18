@@ -9,4 +9,13 @@ public class FactorialCalculator {
     // Recursive case: multiply n with factorial of (n-1)
     return n * calculateFactorial(n - 1);
   }
+  public static void main(String[] args) {
+    int number = 7;
+    int factorial = calculateFactorial(number);
+    System.out.println("Factorial of " + number + " is: " + factorial);
+    number = 12;
+    factorial = calculateFactorial(number);
+    System.out.println("\nFactorial of " + number + " is: " + factorial);
+  }
+}
   
