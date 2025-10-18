@@ -1,1 +1,11 @@
+public class FactorialCalculator {
 
+  public static int calculateFactorial(int n) {
+    // Base case: factorial of 0 is 1
+    if (n == 0) {
+      return 1;
+    }
+
+    // Recursive case: multiply n with factorial of (n-1)
+    return n * calculateFactorial(n - 1);
+  }
