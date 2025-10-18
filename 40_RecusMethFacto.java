@@ -9,3 +9,4 @@ public class FactorialCalculator {
     // Recursive case: multiply n with factorial of (n-1)
     return n * calculateFactorial(n - 1);
   }
+  
